@@ -85,6 +85,5 @@ Propagation is AC-3 to fixpoint. Search is depth-first with first-fail variable 
 
 These are the obvious places to grow. The trail layer does not need to change for any of them.
 
-## License
 
-(add yours)
+
